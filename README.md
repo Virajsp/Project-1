@@ -1,4 +1,4 @@
-Simple Tic Tac Toe game madhe by Viraj Panghavane.
+Simple Tic Tac Toe game made by Viraj Panghavane.
 
 HTML
 CSS
